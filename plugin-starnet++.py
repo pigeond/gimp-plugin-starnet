@@ -4,11 +4,11 @@
 Gimp plugin "Starnet++"
 This plugin does the following:
 - Copy visible and paste it to a new temporary image.
-- Set temporary precision to 16 bit integer.
+- Set the temporary image precision to 16 bit integer.
 - Flatten the temporary image.
-- Export the temporary to a temporary TIF file.
-- Run Starnet++ on the temporary TIF file
-- Load Starnet++ output file into a new layer named "starless"
+- Export a temporary TIF file.
+- Run Starnet++ on the temporary TIF file.
+- Load Starnet++ output file into a new layer named "starless".
 - Temporary files are then removed.
 '''
 
