@@ -22,3 +22,5 @@ Tested on Windows and Linux. Hopefully works on MacOS too?
 ### Starnet++ installation
 - Download at https://www.starnetastro.com/download/
 
+### Quick demo
+[Video on Instagram](https://www.instagram.com/p/Cg-pwT_pL7N/)
