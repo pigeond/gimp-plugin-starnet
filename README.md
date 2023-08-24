@@ -16,7 +16,7 @@ Tested on Windows and Linux. Hopefully works on MacOS too?
 - Download the latest [plugin-starnet++.py](https://raw.githubusercontent.com/pigeond/gimp-plugin-starnet/master/plugin-starnet%2B%2B.py).
 - Windows: Copy `plugin-starnet++.py` into `%APPDATA%\Roaming\GIMP\2.10\plug-ins\` (Example: `C:\Users\Pigeon\AppData\Roaming\GIMP\2.10\plug-ins\`)
 
-  Linux: Copy `plugin-starnet++.py` into `$HOME/.config/GIMP/2.10/plug-ins/`
+  Linux: Copy `plugin-starnet++.py` into `$HOME/.config/GIMP/2.10/plug-ins/`. Then make sure it is executable, for example, by running `chmod +x $HOME/.config/GIMP/2.10/plug-ins/plugin-starnet++.py` at the shell.
 - Edit `plugin-starnet++.py` and set `STARNET_DIR` and `STARNET_BINARY` to the appropriate path and binary name. Examples are in the code.
 
 ### Starnet++ installation
